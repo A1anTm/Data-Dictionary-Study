@@ -11,7 +11,12 @@
 
 # Logica 22 de enero trabajo y defensa. La mitad hecho (Estudiarlo)
 
-# Ambiente y desarrollo 20 de Enero, trabajo y video.
+# Ambiente y desarrollo 20 de Enero, trabajo y video. Listo
 
 # Formacion cultural nada de momento a partir de lunes 19 enero.
+
+
+
+
+Revisar primero -> Computacion y Ambiente y desarrollo.
 

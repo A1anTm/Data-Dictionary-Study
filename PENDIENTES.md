@@ -13,7 +13,7 @@
 
 # Ambiente y desarrollo 20 de Enero, trabajo y video. Listo
 
-# Formacion cultural nada de momento a partir de lunes 19 enero.
+# Formacion cultural trabajo 26 enero.
 
 
 

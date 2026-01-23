@@ -9,7 +9,7 @@
 
 # Lenguaje y comunicación 23 Enero-> Listo
 
-# Logica 22 de enero trabajo y defensa. La mitad hecho (Estudiarlo)
+# Logica 22 de enero trabajo y defensa. La mitad hecho (Estudiarlo) -> ENTREGADO *** FALTA ESTUDIAR LEY ASOCIATIVA
 
 # Ambiente y desarrollo 20 de Enero, trabajo y video. Listo - ENTREGADO **
 

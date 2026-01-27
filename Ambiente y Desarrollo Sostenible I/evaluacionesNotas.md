@@ -1,2 +1,2 @@
 
->El ambiente primera evaluación y defensa -> 
+>El ambiente primera evaluación -> 

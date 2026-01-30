@@ -3,7 +3,7 @@
 
 15% -> 1er corte Defensa -> 5%
 
-30% -> 2do corte
+30% -> 2do corte, Trabajo y defensa(15%), mapa mental(15%) grupal
 
 55% -> 3er corte - sin defensa (solo exposición) trabajos
 

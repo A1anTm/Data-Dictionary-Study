@@ -22,13 +22,13 @@
 
 # Matematica
 
-# Metodologia de la investigacion Mapa Conceptual 6 de febrero y Informe para el 27 de febrero.
+# Metodologia de la investigacion Mapa Conceptual 6 de febrero y Informe para el 27 de febrero. LISTO (MAPA CONCEPTUAL - 6 FEB)
 
-# Computacion I Informe para el 10 de febrero y Ensayo academico para el 26 de febrero.
+# Computacion I Informe para el 10 de febrero y Ensayo academico para el 26 de febrero. LISTO (INFORME)
 
 # Ingles
 
-# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero.
+# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero. LISTO (presentacion)
 
 # Logica Trabajo y mapa mental para el -> 12 de febrero
 

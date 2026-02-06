@@ -28,10 +28,10 @@
 
 # Ingles
 
-# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero. LISTO (presentacion)
+# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero. LISTO (presentacion y defensa)
 
 # Logica Trabajo y mapa mental para el -> 12 de febrero
 
-# Ambiente y desarrollo
+# Ambiente y desarrollo Informe 12 febrero y Mapa conceptual 19 febrero
 
 # Formacion cultural 

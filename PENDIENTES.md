@@ -15,23 +15,23 @@
 
 # Ambiente y desarrollo 20 de Enero, trabajo. Listo - ENTREGADO **
 
-# Formacion cultural trabajo 26 enero.
+# Formacion cultural trabajo 26 enero. LISTO
 
 
 2do CORTE
 
 # Matematica
 
-# Metodologia de la investigacion Mapa Conceptual 6 de febrero y Informe para el 27 de febrero. LISTO (MAPA CONCEPTUAL - 6 FEB)
+# Metodologia de la investigacion Mapa Conceptual 6 de febrero y Informe para el 27 de febrero. LISTO (MAPA CONCEPTUAL - 6 FEB - ENTREGADO), 
 
 # Computacion I Informe para el 10 de febrero y Ensayo academico para el 26 de febrero. LISTO (INFORME)
 
-# Ingles
+# Ingles Miercoles 11 de febrero Critica en ingles. (ENTREGADO)
 
-# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero. LISTO (presentacion y defensa)
+# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero. LISTO (presentacion y defensa, ENTREGADO)
 
-# Logica Trabajo y mapa mental para el -> 12 de febrero
+# Logica Trabajo y mapa mental para el -> 12 de febrero - LISTO(armar que voy a presentar, ENTREGADO)
 
-# Ambiente y desarrollo Informe 12 febrero y Mapa conceptual 19 febrero
+# Ambiente y desarrollo Informe 12 febrero y Mapa conceptual 19 febrero (INFORME ENTREGADO)
 
 # Formacion cultural 

@@ -34,4 +34,4 @@
 
 # Ambiente y desarrollo Informe 12 febrero y Mapa conceptual 19 febrero (INFORME ENTREGADO) y MAPA ENTREGADO
 
-# Formacion cultural 20 de febrero
+# Formacion cultural 20 de febrero - ENTREGADO

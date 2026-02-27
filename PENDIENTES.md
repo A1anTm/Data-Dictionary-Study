@@ -22,13 +22,13 @@
 
 # Matematica
 
-# Metodologia de la investigacion Mapa Conceptual 6 de febrero y Informe para el 27 de febrero. LISTO (MAPA CONCEPTUAL - 6 FEB - ENTREGADO), 
+# Metodologia de la investigacion Mapa Conceptual 6 de febrero y Informe para el 27 de febrero. LISTO (MAPA CONCEPTUAL - 6 FEB - ENTREGADO), (INFORME, ENTREGADO)
 
 # Computacion I Informe para el 10 de febrero y Ensayo academico para el 26 de febrero. LISTO (INFORME), LISTO (ENSAYO)
 
-# Ingles Y Parrafo para el 27 febrero Miercoles 11 de febrero Critica en ingles. (ENTREGADO)
+# Ingles Y Parrafo para el 27 febrero Miercoles 11 de febrero Critica en ingles. (ENTREGADO), LISTO OPINION
 
-# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero. LISTO (presentacion y defensa, ENTREGADO)
+# Lenguaje y comunicación Presentacion y defensa 10 de febrero y Cuadro Comparativo para el 27 de febrero. LISTO (presentacion y defensa, ENTREGADO), LISTO (CUADRO COMPARATIVO)
 
 # Logica Trabajo y mapa mental para el -> 12 de febrero - LISTO(armar que voy a presentar, ENTREGADO)
 

@@ -38,3 +38,5 @@
 
 
 3er Corte
+
+# Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril

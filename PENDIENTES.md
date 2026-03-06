@@ -41,16 +41,16 @@
 
 # Matematica
 
-# Metodologia de la investigacion
+# Metodologia de la investigacion - Informe 13 de Marzo - 
 
-# Computacion
+# Computacion - Mapa Conceptual 17 marzo - Proyecto 21 de abril - Trabajo de investigacion 17 de marzo
 
-# Ingles
+# Ingles - Presentación de un tema de a ingeniería informática 20 de marzo - Ensayo 28 de marzo 
 
-# Lenguaje y comunicación
+# Lenguaje y comunicación - Resolver guia de ejercicios 17 de marzo -
 
 # Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril
 
 # Ambiente y desarrollo
 
-# Formacion cultural
+# Formacion cultural 

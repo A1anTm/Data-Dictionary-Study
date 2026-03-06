@@ -39,4 +39,18 @@
 
 3er Corte
 
+# Matematica
+
+# Metodologia de la investigacion
+
+# Computacion
+
+# Ingles
+
+# Lenguaje y comunicación
+
 # Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril
+
+# Ambiente y desarrollo
+
+# Formacion cultural

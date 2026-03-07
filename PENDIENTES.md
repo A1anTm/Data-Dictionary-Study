@@ -41,16 +41,16 @@
 
 # Matematica
 
-# Metodologia de la investigacion - Informe 13 de Marzo - 
+# Metodologia de la investigacion - Informe 13 de Marzo - Cuadro comparativo 27 de marzo - Monografia 17 de abril / Listo Informe (Revisar) / Listo Cuadro Comparativo (Revisar)
 
-# Computacion - Mapa Conceptual 17 marzo - Proyecto 21 de abril - Trabajo de investigacion 17 de marzo
+# Computacion - Trabajo de investigacion y Defensa (Video 3 mins) 17 marzo - Mapa conceptual 7 de abril - Trabajo de investigacion 21 de marzo / Listo Trabajo (Revisar y defensa) / Listo Mapa Conceptual (Revisar)
 
-# Ingles - Presentación de un tema de a ingeniería informática 20 de marzo - Ensayo 28 de marzo 
+# Ingles - Presentación de un tema de a ingeniería informática 20 de marzo - Ensayo 28 de marzo / Ensayo Listo (Entregar)
 
-# Lenguaje y comunicación - Resolver guia de ejercicios 17 de marzo -
+# Lenguaje y comunicación - Resolver guia de ejercicios 17 de marzo - Informe 7 de abril - Taller 22 de abril / 
 
-# Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril
+# Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril 
 
-# Ambiente y desarrollo
+# Ambiente y desarrollo 
 
 # Formacion cultural 

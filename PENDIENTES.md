@@ -41,7 +41,7 @@
 
 # Matematica
 
-# Metodologia de la investigacion - Informe 13 de Marzo - Cuadro comparativo 27 de marzo - Monografia 17 de abril / Listo Informe (Revisar) / Listo Cuadro Comparativo (Revisar)
+# Metodologia de la investigacion - Informe 13 de Marzo - Cuadro comparativo 27 de marzo - Monografia 17 de abril / Listo Informe **/ Listo Cuadro Comparativo (Revisar)
 
 # Computacion - Trabajo de investigacion y Defensa (Video 3 mins) 17 marzo - Mapa conceptual 7 de abril - Trabajo de investigacion 21 de marzo / Listo Trabajo (Revisar y defensa) / Listo Mapa Conceptual (Revisar)
 

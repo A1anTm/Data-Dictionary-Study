@@ -51,6 +51,6 @@
 
 # Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril 
 
-# Ambiente y desarrollo 
+# Ambiente y desarrollo - Trabajo 19 de marzo, Analisis 9 de abril, Informe 16 de abril
 
 # Formacion cultural 

@@ -45,12 +45,12 @@
 
 # Computacion - Trabajo de investigacion y Defensa (Video 3 mins) 17 marzo - Mapa conceptual 7 de abril - Trabajo de investigacion 21 de marzo / Listo Trabajo (LISTO) / Listo Mapa Conceptual (Revisar)
 
-# Ingles - Presentación de un tema de a ingeniería informática 20 de marzo - Ensayo 28 de marzo / Ensayo Listo (Entregar)
+# Ingles - Presentación de un tema de a ingeniería informática 20 de marzo - Ensayo 28 de marzo / Ensayo Listo (Entregar) / Listo presentacion
 
 # Lenguaje y comunicación - Resolver guia de ejercicios 17 de marzo - Informe 7 de abril - Taller 22 de abril /  - GUIA DE EJERCICIOS LISTO /
 
-# Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril 
+# Lógica Trabajo 19 de marzo, Segundo trabajo 2 de abril y la exposición 9 de abril / Listo Trabajo
 
-# Ambiente y desarrollo - Trabajo 19 de marzo, Analisis 9 de abril, Informe 16 de abril
+# Ambiente y desarrollo - Trabajo 19 de marzo, Analisis 9 de abril, Informe 16 de abril / LISTO trabajo / 
 
 # Formacion cultural 

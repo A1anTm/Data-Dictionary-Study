@@ -43,7 +43,7 @@
 
 # Metodologia de la investigacion - Informe 13 de Marzo - Cuadro comparativo 27 de marzo - Monografia 17 de abril / Listo Informe **/ Listo Cuadro Comparativo (Revisar) / Listo Monografia
 
-# Computacion - Trabajo de investigacion y Defensa (Video 3 mins) 17 marzo - Mapa conceptual 7 de abril - Trabajo de investigacion 21 de marzo / Listo Trabajo (LISTO) / Listo Mapa Conceptual  LISTOS
+# Computacion - Trabajo de investigacion y Defensa (Video 3 mins) 17 marzo - Mapa conceptual 7 de abril - Trabajo de investigacion 21 de abril / Listo Trabajo (LISTO) / Listo Mapa Conceptual  LISTOS
 
 # Ingles - Presentación de un tema de a ingeniería informática 20 de marzo - Ensayo 28 de marzo / Ensayo Listo (Entregar) / Listo presentacion
 
@@ -53,4 +53,4 @@
 
 # Ambiente y desarrollo - Trabajo 19 de marzo, Analisis 9 de abril, Informe 16 de abril / LISTO trabajo / Listo analisis / Listo Informe
 
-# Formacion cultural 9 de abril , 16 de abril - Entregado trabajo 16 abril
+# Formacion cultural 9 de abril , 16 de abril - 23 de abril - Entregado trabajo 16 abril

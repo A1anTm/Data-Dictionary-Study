@@ -1,6 +1,6 @@
 # 1er CORTE
 
-> Algebra lineal 25 mayo
+> Algebra lineal prueba ENTREGADO 
 
 > Computacion II - Exposición 20 May (13%) ENTREGADO
 

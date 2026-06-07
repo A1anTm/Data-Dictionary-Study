@@ -1,17 +1,37 @@
 # 1er CORTE
 
-> Algebra lineal prueba ENTREGADO 
+> Algebra lineal prueba ENTREGADO 12% 
 
-> Computacion II - Exposición 20 May (13%) ENTREGADO
+> Computacion II - Exposición 20 May (12%) ENTREGADO
 
-> Contabilidad General - Trabajo de Investigacion (Portada, Desarrollo, Bibliografias) 21 May ENTREGADO
+> Contabilidad General - Trabajo de Investigacion (Portada, Desarrollo, Bibliografias) 21 May ENTREGADO (11%)
 
-> Educacion para la salud - Trabajo de investigación 29 May ENTREGADO
+> Educacion para la salud - Trabajo de investigación 29 May ENTREGADO (13%)
 
 > Ingles II
 
-> Matematica II - Taller Integrales 30 May
+> Matematica II - Taller Integrales 08/6 - Defensa - 13/06
 
-> Metodologia de la Investigacion  II ENTREGADO
+> Metodologia de la Investigacion  II ENTREGADO (15%)
 
-> Redaccion de Informes Tecnicos - Ensayo Académico 29 May ENTREGADO
+> Redaccion de Informes Tecnicos - Ensayo Académico 29 May ENTREGADO (15%)
+
+
+# 2do CORTE
+
+> Algebra lineal - Exposición - 11/06
+
+> Computacion II 
+
+> Contabilidad General Prueba libro Diario
+
+> Educacion para la salud - Informe - 13/06
+
+> Matematica II 
+
+> Metodologia de la Investigacion
+
+> Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 - Mapa Conceptual 26/06
+
+
+

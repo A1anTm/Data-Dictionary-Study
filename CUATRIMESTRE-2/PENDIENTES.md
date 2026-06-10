@@ -29,9 +29,12 @@
 
 > Matematica II 
 
-> Metodologia de la Investigacion
+> Ingles II
+
+> Metodologia de la Investigacion 19/06
 
 > Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 - Mapa Conceptual 26/06
 
 
 
+Si un conjunto se cumple todas las propiedades es un subespacio 

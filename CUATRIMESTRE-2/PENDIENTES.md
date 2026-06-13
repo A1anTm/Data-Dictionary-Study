@@ -19,22 +19,27 @@
 
 # 2do CORTE
 
-> Algebra lineal - Exposición - 11/06
+> Algebra lineal - Exposición - 11/06 - Listo
 
 > Computacion II 
 
-> Contabilidad General Prueba libro Diario
+> Contabilidad General Prueba libro Diario - Listo
 
-> Educacion para la salud - Informe - 13/06
+> Educacion para la salud - Informe - 13/06 (Listo)
 
 > Matematica II 
 
 > Ingles II
 
-> Metodologia de la Investigacion 19/06
+> Metodologia de la Investigacion 19/06 
 
-> Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 - Mapa Conceptual 26/06
+> Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 (Listo) - Mapa Conceptual 26/06
 
 
 
 Si un conjunto se cumple todas las propiedades es un subespacio 
+
+
+
+
+

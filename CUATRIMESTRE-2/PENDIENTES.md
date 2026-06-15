@@ -21,7 +21,7 @@
 
 > Algebra lineal - Exposición - 11/06 - Listo
 
-> Computacion II 
+> Computacion II - Practica 24 Junio y Diagrama de flujos
 
 > Contabilidad General Prueba libro Diario - Listo
 
@@ -33,7 +33,7 @@
 
 > Metodologia de la Investigacion 19/06 
 
-> Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 (Listo) - Mapa Conceptual 26/06
+> Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 (Listo) - Mapa Conceptual 26/06 (LISTO)
 
 
 

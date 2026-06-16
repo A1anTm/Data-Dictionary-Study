@@ -19,7 +19,7 @@
 
 # 2do CORTE
 
-> Algebra lineal - Exposición - 11/06 - Listo
+> Algebra lineal - Exposición - 11/06 - Listo - Algebra lineal 22/06 Examen
 
 > Computacion II - Practica 24 Junio y Diagrama de flujos
 
@@ -31,7 +31,7 @@
 
 > Ingles II
 
-> Metodologia de la Investigacion 19/06 
+> Metodologia de la Investigacion 19/06 Listo
 
 > Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 (Listo) - Mapa Conceptual 26/06 (LISTO)
 

@@ -23,9 +23,9 @@
 
 > Computacion II - Practica 24 Junio y Diagrama de flujos
 
-> Contabilidad General Prueba libro Diario - Listo
+> Contabilidad General Prueba libro Diario - Listo y mayor Listo
 
-> Educacion para la salud - Informe - 13/06 (Listo)
+> Educacion para la salud - Informe - 13/06 (Listo) y Mapa Conceptual LIsto
 
 > Matematica II 
 
@@ -33,7 +33,7 @@
 
 > Metodologia de la Investigacion 19/06 Listo
 
-> Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 (Listo) - Mapa Conceptual 26/06 (LISTO)
+> Redaccion de Informes Tecnicos - Trabajo con Defensa 12/06 (Listo) - Mapa Mental (LISTO)
 
 
 

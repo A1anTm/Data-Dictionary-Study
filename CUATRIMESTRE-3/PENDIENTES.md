@@ -1,14 +1,14 @@
 # 1er CORTE
 
-> Algoritmo y Estructuras - Trabajo Classroom - ENTREGADO ✓
+> Algoritmo y Estructuras - Trabajo Classroom - ENTREGADO ✓           12%
 
-> Estadistica I - Trabajo en fisico - ENTREGADO ✓
+> Estadistica I - Trabajo en fisico - ENTREGADO ✓                      9%
 
-> Fisica I - 
+> Fisica I - Trabajo y defensa
 
-> Ingles III - Actividad en fisico - ENTREGADO ✓
+> Ingles III - Actividad en fisico - ENTREGADO ✓ 
 
-> Matematica Discreta - 
+> Matematica Discreta - Trabajo - ENTREGADO    ✓
 
 > Matematica III - Prueba Escrita 12/09/26
 

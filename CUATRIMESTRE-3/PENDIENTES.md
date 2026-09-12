@@ -4,7 +4,7 @@
 
 > Estadistica I - Trabajo en fisico - ENTREGADO ✓                      9%
 
-> Fisica I - Trabajo y defensa
+> Fisica I - Trabajo y defensa  - ENTREGADO ✓
 
 > Ingles III - Actividad en fisico - ENTREGADO ✓ 
 

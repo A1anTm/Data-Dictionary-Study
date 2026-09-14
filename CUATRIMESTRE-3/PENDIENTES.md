@@ -1,18 +1,18 @@
-# 1er CORTE
+# 1er CORTE BASE A 15%
 
 > Algoritmo y Estructuras - Trabajo Classroom - ENTREGADO ✓           12%
 
 > Estadistica I - Trabajo en fisico - ENTREGADO ✓                      9%
 
-> Fisica I - Trabajo y defensa  - ENTREGADO ✓
+> Fisica I - Trabajo y defensa  - ENTREGADO ✓                         
 
-> Ingles III - Actividad en fisico - ENTREGADO ✓ 
+> Ingles III - Actividad en fisico - ENTREGADO ✓   
 
 > Matematica Discreta - Trabajo - ENTREGADO    ✓
 
-> Matematica III - Prueba Escrita 12/09/26
+> Matematica III - Prueba Escrita 12/09/26     ENTREGADO ✓               15%
 
-> Teoria de Sistemas - Trabajo Investigacion - ENTREGADO ✓
+> Teoria de Sistemas - Trabajo Investigacion - ENTREGADO ✓               13%
 
 
 # 2do CORTE
